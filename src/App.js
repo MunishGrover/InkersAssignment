@@ -10,7 +10,7 @@ class App extends Component {
       return(
           <div className="App">
               <div className="myhead">
-                  <h1>Yeah babu rao ka istyle hai </h1>
+                  <h1>Bar Graph </h1>
                   <Chart   />
               </div>
               <p className="App-intro">
